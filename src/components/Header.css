@@ -1,5 +1,63 @@
-.header {
-    background-color: red;
-    font-size: 100px;
-    color: white;
+.container {
+  width: 90%;
+  margin-top: 40px;
+  border: 2px solid black;
+  margin-left: 5%;
 }
+
+.logo-design {
+  border: 2px solid black;
+  padding: 10px;
+  border-style: dashed;
+  background-color: green;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-top: -20px;
+}
+
+.logo-design p {
+  margin-top: 10px;
+  margin-left: -5px;
+  color: black;
+}
+
+.nav-bar {
+  margin: 20px;
+}
+
+.nav-item {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.nav-item li {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+}
+
+.footer-content {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.nav-item li:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+.logo-design:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
+
+
+
+
+
