@@ -1,10 +1,7 @@
-import Header from './components/Header.jsx'
+import Header from './components/Header'
 
 const App = () => {
-//   return (
-//     <div>App</div>
-//   )
-    Header()
+    document.body.appendChild(Header());
 }
 
 export default App;
