@@ -1,0 +1,38 @@
+{
+  "name": "capstone-js",
+  "version": "1.0.0",
+  "description": "Capstone project created with WEBPACK and NODEjs",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roniy68/capstone-js.git"
+  },
+  "keywords": [
+    "webpack",
+    "js",
+    "node",
+    "components",
+    "api",
+    "react"
+  ],
+  "author": "Ahmed Hasan Rony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roniy68/capstone-js/issues"
+  },
+  "homepage": "https://github.com/roniy68/capstone-js#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
