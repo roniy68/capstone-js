@@ -1,21 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Capstone Project: Webpack & JS</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <div class="root" id="root">
-        <!-- Root DOM -->
+      <!-- Root DOM -->
     </div>
-    
-    <h1>
-        Capstone Project
-    </h1>
+
+<body>
+    <!-- navbar- desktop and mobile -->
+    <header>
+        <div class="header-main">
+            <div class="wrapper">
+                <nav class="main-nav">
+                    <div class="icon-nav">
+                        <a href=""><img src="logo-menu.png" alt="logo image"></a>
+                    </div>
+                    <div class="icon-menu-mobile">
+                        <img src="images/icons/hamburger-icon.svg" alt="Hamburger icon">
+                    </div>
+                    <ul class="bottom-nav">
+                        <li><a href="#Recipes">Recipes</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+        <div class="nav-mobile">
+            <div class="cross">
+                <img src="images/icons/cross.svg" alt="cross">
+            </div>
+            <ul class="container">
+                <li><a href="#">About</a></li>
+                <li><a href="#">Recipes</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <h1>Capstone Project</h1>
+
+    <!-- footer -->
+    <footer id="footer" class="d-flex about-footer">
+        <div class="footer-content">
+            <p>2023 Capstone Project: Webpack & JS. All rights Reserved</p>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
 </body>
 
 </html>
