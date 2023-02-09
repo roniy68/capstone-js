@@ -30,8 +30,9 @@
   flex-direction: column;
 }
 
-.commentform input, button, textarea {
+.commentform input,
+button,
+textarea {
   padding: 5px;
   margin-top: 10px;
 }
-
