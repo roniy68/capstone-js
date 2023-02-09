@@ -19,7 +19,8 @@ const popup = () => {
   <p>MOVIE ACTORS</p>
   <h4>MOVIE CATAGORY</h4>
   <p class='country'> MOVIE COUNTRY </p>
-  </div>
+  </div><br><br>
+   <h2 class="form-heading">Add a comment</h2> 
   <div class="commentform">
   <input type="text" class="username" placeholder="Your name" required >
   <textarea class="msg" name="msg" id="" cols="30" rows="6" placeholder="Your insights" required ></textarea>

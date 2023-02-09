@@ -14,8 +14,8 @@
   margin-left: 90%;
   margin-top: -400px;
   position: absolute;
-  width: 20px;
-  height: 20px;
+  padding: 2px 10px;
+  font-size: x-large;
 }
 
 .Popup-window-close:hover {
@@ -26,6 +26,12 @@
 .commentform {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
 }
+
+.commentform input, button, textarea {
+  padding: 5px;
+  margin-top: 10px;
+}
+
