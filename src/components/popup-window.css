@@ -1,0 +1,35 @@
+.popup-window {
+    position: absolute;
+    background-color: rgb(179, 179, 179);
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 90%;
+    height: 90%;
+    margin-left: 5%;
+
+  justify-content: space-around;
+}
+
+.Popup-window-close {
+    margin-left: 90%;
+    margin-top: -400px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    
+}
+
+.Popup-window-close:hover {
+   cursor: pointer;
+   background-color: red;
+}
+
+.commentform {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+}
