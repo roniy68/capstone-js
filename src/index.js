@@ -1,4 +1,6 @@
 import './index.css';
-import App from './App.js';
+import displayData from './modules/displayData.js';
 
-App();
+window.onload = () => {
+  displayData();
+};
