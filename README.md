@@ -158,6 +158,9 @@ To run the project, execute the following command:
 - Twitter: [@ahroniy](https://twitter.com/ahroniy)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
 
+👤 **Muhammad Talha Hanif**
+
+- GitHub: [@Talha-Hanif5666](https://github.com/Talha-Hanif5666)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
