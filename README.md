@@ -40,7 +40,7 @@
 # 📖 capstone-js  <a name="about-project"></a>
 
 > This Project is to create group capstone project for our Resume
->       <br><b> Module One day 2 Project [solo]</b>
+>       <br><b>Capstone Project Module 2</b>
 
 **capstone-js** is a template to build your capstone-js website beautiful.
 
@@ -72,6 +72,10 @@
 >  soon will be available
 
 - [Live Demo Link](https://roniy68.github.io/capstone-js/)
+
+# Project Video Description: 
+---
+  **[Video Link ](https://drive.google.com/file/d/1FKmTyFmRR1RpRffyuCu_xFE-3ubogwky/view?usp=sharing)**
   
 
 
