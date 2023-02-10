@@ -13,6 +13,12 @@ const getMovie = async (id) => {
   return data;
 };
 
+const getLike = async () => {
+  const response = await fetch(`${involvementUrl}likes`);
+  const data = await response.json();
+  return data;
+};
+
 const pushLike = async (id) => {
   await fetch(`${involvementUrl}likes/`, {
     method: 'POST',
@@ -23,12 +29,7 @@ const pushLike = async (id) => {
       item_id: id,
     }),
   });
-};
-
-const getLike = async () => {
-  const response = await fetch(`${involvementUrl}likes`);
-  const data = await response.json();
-  return data;
+  getLike();
 };
 
 const pushComment = async (id, username, comment) => {
