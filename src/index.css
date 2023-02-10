@@ -107,10 +107,10 @@ header #link #movie {
 }
 
 #home .container button {
-  background-color: #fff;
+  background-color: #07b026;
   padding: 7px;
   margin: 5px 0;
-  box-shadow: 3px 3px #292929;
+  box-shadow: 3px 3px #6b0404;
 }
 
 #home .container button:hover {
@@ -125,8 +125,9 @@ footer {
   padding: 30px;
   bottom: 0;
   width: 100%;
-  border-top: 1px solid #cdcdcd;
-  background-color: #fff;
+  border-top: 1px solid #f0e3e3;
+  background-color: #be9393;
+  color: white;
 }
 
 .close {
@@ -167,7 +168,7 @@ h2 {
 }
 
 .comment-container {
-  background: rgba(151, 148, 147, 70%);
+  background: rgba(188, 161, 151, 0.7);
   backdrop-filter: blur(3px);
   padding: 30px 50px;
   gap: 15px;
