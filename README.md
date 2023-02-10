@@ -158,6 +158,11 @@ To run the project, execute the following command:
 - Twitter: [@ahroniy](https://twitter.com/ahroniy)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
 
+👤 **Ahmed Hasan Rony**
+
+- GitHub: [@roniy68](https://github.com/roniy68)
+- Twitter: [@ahroniy](https://twitter.com/ahroniy)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
